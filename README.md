@@ -29,4 +29,7 @@ https://www.makeblock.es/soporte/mblock/ [Software Para la programación de mBot
    IPad -> https://itunes.apple.com/es/app/mblockly-for-mbot/id1041863919?mt=8 
    Con esta aplicación podrás programar tus robots desde tu iPad mediante un entorno similar a Scratch.
    
-   
+3. Otros recursos:
+
+http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ [_Curso MBot Gobierno de Aragón]
+
