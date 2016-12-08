@@ -2,11 +2,11 @@
 
 EmotionBot Miscelánea
 
-### Manual Completo en Español de Mbot para profesores:
+### Manual Completo en Español de mBot para profesores:
 
 Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa Tecnología - Susana Oubiña Falcón CC 2016 [PDF](https://github.com/slvbytes/EmotionBot/blob/master/Manuales/Divirtiendome-Mbot.pdf)
 
-### Recursos WEB para Mbot y Mblock:
+### Recursos WEB para mBot y mBlock:
 
 [Recursos Didácticos y preguntas frecuentes](https://www.makeblock.es/soporte/robot-mbot/) 
 
@@ -14,9 +14,9 @@ Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa 
 
 [Software Para la programación de mBot con Scratch](https://www.makeblock.es/soporte/mblock/ )
 
-### Aplicaciones Para Móviles y Tablets para Mbot:
+### Aplicaciones Para Móviles y Tablets para mBot:
    
-- MBot App:
+- mBot App:
    
    [Android](https://play.google.com/store/apps/details?id=cc.makeblock.mbot&hl=es) 
    
@@ -40,5 +40,5 @@ Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa 
    
 ### Otros recursos:
 
-- [Curso MBot Gobierno de Aragón](http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ )
+- [Curso mBot Gobierno de Aragón](http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ )
 
