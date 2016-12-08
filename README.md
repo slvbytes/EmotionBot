@@ -1,7 +1,11 @@
 # EmotionBot
 Miscelánea
 
-1. Recursos WEB para Mbot y Mblock:
+1. Manual Completo en Español de Mbot para profesores:
+
+https://github.com/slvbytes/EmotionBot/blob/master/Manuales/Divirtiendome-Mbot.pdf [_Susana Oubiña Falcón - CC 2016]
+
+2. Recursos WEB para Mbot y Mblock:
 
 https://www.makeblock.es/soporte/robot-mbot/ [Recursos Didácticos y preguntas frecuentes] 
 
@@ -9,7 +13,7 @@ https://www.makeblock.es/soporte/descargas/ [Descargas, drivers y guías]
 
 https://www.makeblock.es/soporte/mblock/ [Software Para la programación de mBot con Scratch 2]
 
-2. Aplicaciones Para Móviles y Tablets para Mbot:
+3. Aplicaciones Para Móviles y Tablets para Mbot:
    
    2.1 MBot App:
    
@@ -29,7 +33,7 @@ https://www.makeblock.es/soporte/mblock/ [Software Para la programación de mBot
    IPad -> https://itunes.apple.com/es/app/mblockly-for-mbot/id1041863919?mt=8 
    Con esta aplicación podrás programar tus robots desde tu iPad mediante un entorno similar a Scratch.
    
-3. Otros recursos:
+4. Otros recursos:
 
 http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ [_Curso MBot Gobierno de Aragón]
 
