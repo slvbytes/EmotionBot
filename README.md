@@ -17,18 +17,13 @@ Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa 
 ### Aplicaciones Para Móviles y Tablets para mBot:
    
 - mBot App:
-   
-   [Android](https://play.google.com/store/apps/details?id=cc.makeblock.mbot&hl=es) >Toma el control de cualquier mBot desde dispositivos Android
+   >Toma el control de cualquier mBot desde dispositivos [Android](https://play.google.com/store/apps/details?id=cc.makeblock.mbot&hl=es)
 
 - Mblock App:
-   
-   [Android](https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=es) >Aplicación para controlar tus robos desde móviles y tablets con SO Android
-   
-   [IPad](http://www.apple.com/es/itunes/affiliates/download/) >Aplicación para controlar los robots de Makeblock desde iOS e iPad
+   >Aplicación para controlar tus robos desde móviles y tablets con SO Android, iOS e iPad [Android](https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=es) [IPad](http://www.apple.com/es/itunes/affiliates/download/)
    
 - Mblocky App:
-   
-   [IPad](https://itunes.apple.com/es/app/mblockly-for-mbot/id1041863919?mt=8) >Con esta aplicación podrás programar tus robots desde tu iPad mediante un entorno similar a Scratch.
+   >Con esta aplicación podrás programar tus robots desde tu iPad mediante un entorno similar a Scratch [IPad](https://itunes.apple.com/es/app/mblockly-for-mbot/id1041863919?mt=8) 
    
 ### Otros recursos:
 
