@@ -1,4 +1,4 @@
-# Formación
+# - Róbotica con Scratch y mBot -
 ## EmotionBot 
 ### 2016
 
