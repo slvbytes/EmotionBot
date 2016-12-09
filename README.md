@@ -28,4 +28,5 @@ Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa 
 ### Otros recursos:
 
 - [Curso mBot Gobierno de Aragón](http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ )
-
+- [Canal de Youtube de MakeBlock](https://www.youtube.com/user/Makeblock)
+- [Video Guía mBot](https://www.youtube.com/playlist?list=PLK4-0oR-wSKglkP9AawXW4v0SQI0A9z7L) de [RoboNic Astur](https://www.youtube.com/channel/UC5HnkvIh_UkvljCEaJmItSg/videos?sort=p&view=0&flow=grid)
