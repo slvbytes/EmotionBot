@@ -1,6 +1,6 @@
-# EmotionBot
-
-EmotionBot Miscelánea
+# Formación
+## EmotionBot 
+### 2016
 
 ### Manual Completo en Español de mBot para profesores:
 
