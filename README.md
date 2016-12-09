@@ -30,3 +30,18 @@ Divirtiéndome con Mbot - Guía de Manejo y programación - Robótica Educativa 
 - [Curso mBot Gobierno de Aragón](http://aularagon.catedu.es/materialesaularagon2013/mbot/indice/ )
 - [Canal de Youtube de MakeBlock](https://www.youtube.com/user/Makeblock)
 - [Video Guía mBot](https://www.youtube.com/playlist?list=PLK4-0oR-wSKglkP9AawXW4v0SQI0A9z7L) de [RoboNic Astur](https://www.youtube.com/channel/UC5HnkvIh_UkvljCEaJmItSg/videos?sort=p&view=0&flow=grid)
+- mBot resuelve un laberinto: 
+
+   [![mBot en un laberinto](https://img.youtube.com/vi/yx6JtQVpcUw/0.jpg)](https://www.youtube.com/watch?v=yx6JtQVpcUw)
+
+- mBot baila a la hora de dormir: 
+
+   [![mBot baila](https://img.youtube.com/vi/p9543Fjx4sM/0.jpg)](https://www.youtube.com/watch?v=p9543Fjx4sM)
+
+- mBot jugando al fútbol: 
+
+   [![mBot futbol](https://img.youtube.com/vi/Vr-VC8Su1UY/0.jpg)](https://www.youtube.com/watch?v=Vr-VC8Su1UY)
+   
+- mBot pelea de globos: 
+
+   [![mBot balloon fight](https://img.youtube.com/vi/aPK6PgTTeAw/0.jpg)](https://www.youtube.com/watch?v=aPK6PgTTeAw)
